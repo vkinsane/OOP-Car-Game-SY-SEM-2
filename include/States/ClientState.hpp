@@ -1,6 +1,6 @@
 /**
  * @file ClientState.hpp
- * @author Vijay
+ * @author Player
  * @brief Handles communication between the computer and the server.
  * @version 0.1
  * @date 2019-02-26

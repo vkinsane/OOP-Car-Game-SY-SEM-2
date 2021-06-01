@@ -1,13 +1,4 @@
-/**
- * @file MainMenuState.cpp
- * @author Vijay
- * @brief State that represents the MainMenu in the game.
- * @version 0.1
- * @date 2019-03-01
- *
- * @copyright Copyright (c) 2019
- *
- */
+
 #include "States/MainMenuState.hpp"
 #include "States/GameState.hpp"
 #include "DEFINITIONS.hpp"
@@ -42,16 +33,16 @@ namespace cp
 		background_sprite.setPosition(SCREEN_WIDTH / 2 - background_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2.1f - background_sprite.getGlobalBounds().height / 2);
 		single_play_button_sprite.setTexture(data->assets.get_texture("PlayButton1"));
 		single_play_button_sprite.scale(Scaling_factor/2.5f);
-		single_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - single_play_button_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2 - single_play_button_sprite.getGlobalBounds().height / 2);
+		single_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - single_play_button_sprite.getGlobalBounds().width / 2, (SCREEN_HEIGHT+400) / 2 - single_play_button_sprite.getGlobalBounds().height / 2);
 		single_play_button_sprite.setColor(sf::Color(255,255,255,220));
-		host_play_button_sprite.setTexture(data->assets.get_texture("PlayButton2_host"));
-		host_play_button_sprite.scale(Scaling_factor/2.5f);
-		host_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - host_play_button_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2 + host_play_button_sprite.getGlobalBounds().height/1.2);
-		host_play_button_sprite.setColor(sf::Color(255,255,255,220));
-		join_play_button_sprite.setTexture(data->assets.get_texture("PlayButton2_join"));
-		join_play_button_sprite.scale(Scaling_factor/2.5f);
-		join_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - join_play_button_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2 + 2*join_play_button_sprite.getGlobalBounds().height);
-		join_play_button_sprite.setColor(sf::Color(255,255,255,220));
+		// host_play_button_sprite.setTexture(data->assets.get_texture("PlayButton2_host"));
+		// host_play_button_sprite.scale(Scaling_factor/2.5f);
+		// host_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - host_play_button_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2 + host_play_button_sprite.getGlobalBounds().height/1.2);
+		// host_play_button_sprite.setColor(sf::Color(255,255,255,220));
+		// join_play_button_sprite.setTexture(data->assets.get_texture("PlayButton2_join"));
+		// join_play_button_sprite.scale(Scaling_factor/2.5f);
+		// join_play_button_sprite.setPosition(SCREEN_WIDTH / 2 - join_play_button_sprite.getGlobalBounds().width / 2, SCREEN_HEIGHT / 2 + 2*join_play_button_sprite.getGlobalBounds().height);
+		// join_play_button_sprite.setColor(sf::Color(255,255,255,220));
 	}
 	/**
 	 * @brief Provide interface to handle inputs in the MainMenu State

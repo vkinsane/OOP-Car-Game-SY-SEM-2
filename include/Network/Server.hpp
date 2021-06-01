@@ -1,7 +1,7 @@
 /**
  *
  * @file Server.hpp
- * @author Vijay
+ * @author Player
  * @brief Server class that handles the data sending over the network
  * @version 0.1
  * @date 2019-02-26

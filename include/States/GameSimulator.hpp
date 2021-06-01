@@ -1,6 +1,6 @@
 /**
  * @file GameSimulator.hpp
- * @author Vijay
+ * @author Player
  * @brief A game simulator just like Game class but it get's its clock sync
  * and resource manager from object owner.
  * @version 0.1

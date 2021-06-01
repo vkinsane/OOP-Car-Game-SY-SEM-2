@@ -1,6 +1,6 @@
 /**
  * @file ServerRoom.hpp
- * @author Vijay
+ * @author Player
  * @brief Simple Server room displayed before Online Play Starts
  * @version 0.1
  * @date 2019-02-27

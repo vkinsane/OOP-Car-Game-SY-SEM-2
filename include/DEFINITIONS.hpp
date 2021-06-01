@@ -5,7 +5,7 @@
 #include <SFML/Graphics.hpp>
 
 #define SCREEN_WIDTH 1400//sf::VideoMode::getDesktopMode().width
-#define SCREEN_HEIGHT 900//sf::VideoMode::getDesktopMode().height
+#define SCREEN_HEIGHT 788//sf::VideoMode::getDesktopMode().height
 
 // const int SCREEN_WIDTH = sf::VideoMode::getDesktopMode().width;
 // const int SCREEN_HEIGHT = sf::VideoMode::getDesktopMode().height;

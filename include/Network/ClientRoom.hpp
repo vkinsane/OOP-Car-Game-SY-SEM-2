@@ -1,6 +1,6 @@
 /**
  * @file ClientRoom.hpp
- * @author Vijay
+ * @author Player
  * @brief The client room that is displayed on client's computer just before online game play
  * @version 0.1
  * @date 2019-02-28

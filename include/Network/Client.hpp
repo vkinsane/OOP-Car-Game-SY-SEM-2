@@ -1,6 +1,6 @@
 /**
  * @file Client.hpp
- * @author Vijay
+ * @author Player
  * @brief Client class refers to a another pc connected over network
  * @version 0.1
  * @date 2019-02-26

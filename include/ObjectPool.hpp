@@ -1,6 +1,6 @@
 /**
  * @file ObjectPool.hpp
- * @author Vijay
+ * @author Player
  * @brief
  * @version 0.1
  * @date 2019-02-28

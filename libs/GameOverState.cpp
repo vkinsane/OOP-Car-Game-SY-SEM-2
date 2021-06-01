@@ -11,7 +11,7 @@ namespace cp
 		data->assets.load_texture("GameOverState background",GAME_OVER_BACKGROUND_FILEPATH);
 		font=data->assets.get_font("sfafont");
 		text.setFont(font);
-		text.setString("Credits: \n\n Vijay Tadikamalla \n\n Anupam Saini\n\n Anjani kumar \n\n Yogesh Singh");
+		text.setString("Project by Grp - 30: \n\n Vishal Khandate \n\n Prathamesh Kulkarni\n\n Harsh Kulkarni \n\n Chetan Lohkare \n\n Sanket Kawade");
 		text.setPosition(SCREEN_WIDTH/3,SCREEN_HEIGHT/4);
 		text.setCharacterSize(56);
 		text.setFillColor(sf::Color::Red);
@@ -32,7 +32,7 @@ namespace cp
 		data->window.display();
 	}
 	void GameOverState::update(float delta) {
-		if (clock.getElapsedTime().asSeconds() > 3 )
+		if (clock.getElapsedTime().asSeconds() > 5 )
 		{
 			std::cout << "Exiting" << std::endl;
 			data->window.close();

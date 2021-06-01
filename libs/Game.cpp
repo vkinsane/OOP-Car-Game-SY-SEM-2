@@ -1,6 +1,6 @@
 /**
  * @file Game.cpp
- * @author Vijay
+ * @author Player
  * @brief Provide all the game play resources to play the game and all provides cpu time to different states.
  * @version 0.1
  * @date 2019-03-01

@@ -1,5 +1,5 @@
-[![CircleCI](https://circleci.com/gh/vijayphoenix/Car-racing-game/tree/master.svg?style=svg)](https://circleci.com/gh/vijayphoenix/Car-racing-game/tree/master)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95ef8ecf89714166963cbe3484e37961)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vijayphoenix/Car-racing-game&amp;utm_campaign=Badge_Grade)
+[![CircleCI](https://circleci.com/gh/Playerphoenix/Car-racing-game/tree/master.svg?style=svg)](https://circleci.com/gh/Playerphoenix/Car-racing-game/tree/master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/95ef8ecf89714166963cbe3484e37961)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Playerphoenix/Car-racing-game&amp;utm_campaign=Badge_Grade)
 
 # Chor Police 
 
@@ -40,7 +40,7 @@ sudo apt install cmake
 
 Clone the repository:	
 ```
-git clone https://github.com/vijayphoenix/Car-racing-game.git
+git clone https://github.com/Playerphoenix/Car-racing-game.git
 ```
 
 Browse to the directory where all the files of this repository are located.  
@@ -58,7 +58,7 @@ This project is documented under  [DOXYGEN](http://www.doxygen.nl/)  Documentati
 
 ### Authors  
 
-* [**Vijay Tadikamalla**](https://github.com/vijayphoenix)  
+* [**Player Tadikamalla**](https://github.com/Playerphoenix)  
 * [**Anjani Kumar**](https://github.com/anjani-1)  
 * [**Anupam Saini**](https://github.com/anupamsaini98)  
 * [**Yogesh Singh**](https://github.com/yo5sh)  

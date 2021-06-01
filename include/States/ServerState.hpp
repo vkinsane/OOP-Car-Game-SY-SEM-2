@@ -1,6 +1,6 @@
 /**
  * @file ServerState.hpp
- * @author Vijay
+ * @author Player
  * @brief The ServerState maintains and simulate online game play
  * @version 0.1
  * @date 2019-02-28

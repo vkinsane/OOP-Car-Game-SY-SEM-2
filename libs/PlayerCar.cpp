@@ -1,6 +1,6 @@
 /**
  * @file PlayerCar.cpp
- * @author Vijay
+ * @author Player
  * @brief PlayerCar.cpp provides Car object
  * @version 0.1
  * @date 2019-03-01

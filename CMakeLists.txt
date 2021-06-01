@@ -56,7 +56,7 @@ endif()
 
 
 ##
-message("Vijay-->\n1.PROJECT_NAME::${PROJECT_NAME}\n2.SFML_LIBRARIES::${SFML_LIBRARIES}\n")
+message("Player-->\n1.PROJECT_NAME::${PROJECT_NAME}\n2.SFML_LIBRARIES::${SFML_LIBRARIES}\n")
 message("3.SFML_DEPENDENCIES::${SFML_DEPENDENCIES}\n\n")
 ######################################################################################################################################
 include_directories(${PROJECT_SOURCE_DIR}/include)
